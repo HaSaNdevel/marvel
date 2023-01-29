@@ -1,0 +1,42 @@
+body{
+    background-image: url(img/gamora-rocket-scarlet-witch-nebula-wallpaper-preview.jpg);
+}
+.bar>h2{
+    color: blue;
+    font-family: sans-serif;
+}
+#ras{
+    width: 60px;
+    height: 60px;
+    border-radius: 20%;
+}
+.bar{
+    display: flex;
+}
+.ww>a{
+    font-size: 25px;
+    color: lightcyan;
+}
+.ww{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+#rasm{
+    width: 200px;
+    height: 300px;
+}
+.fb{
+    text-align: center;
+}
+.amerika>.fb>a{
+    font-size: 25px;
+    font-family: cursive;
+    color: lightcyan;
+}
+.first{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
